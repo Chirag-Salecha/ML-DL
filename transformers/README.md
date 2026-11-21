@@ -1,5 +1,5 @@
 
-# NLP Text Representations, Multi-Head Attention, and LoRA From Scratch
+# NLP Text Representations, Multi-Head Attention, and LoRA 
 
 This repository implements core Natural Language Processing (NLP) text representation methods, Transformer Multi-Head Scaled Dot-Product Attention, and Low-Rank Adaptation (LoRA) fine-tuning from scratch using only **NumPy** and **Matplotlib**—without relying on high-level deep learning or NLP libraries.
 
